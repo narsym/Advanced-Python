@@ -8,3 +8,4 @@ __contains chapter wise notebooks__
 
 _Chapter 1 (A pythonic deck and Emulating numeric types)_
 
+_Chapter 2 (Sequence Types)_
