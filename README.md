@@ -12,6 +12,6 @@ _Chapter 2 (List comprehensions, generator expressions, augemented assignements,
 
 _Chapter 3 (Dict comprehensions, setdefault, missing special method, defaultdict, Counter, UserDict and Sets)_
 
-_Chapter 4 (coming soon)
+_Chapter 4 (coming soon)_
 
 _Chapter 5 (first order objects, assign functions, higher order functions, modern replacements for {map, filter, reduce}, lambda, operator module{itemgetter, attrgetter}, methodcaller, partial in functools)_
